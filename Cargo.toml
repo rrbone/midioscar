@@ -1,0 +1,11 @@
+[package]
+name = "midioscar"
+version = "0.1.0"
+authors = ["Jan-Erik Rediger <jer@rrbone.net>"]
+
+[dependencies]
+clap = "2.23.2"
+portmidi = "0.2.4"
+rosc = "0.1.5"
+log = "0.3"
+loggerv = "0.2"
