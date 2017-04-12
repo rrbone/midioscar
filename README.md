@@ -18,7 +18,7 @@ It can take in multiple MIDI devices and push out to multiple OSC receivers.
 
 ## In production
 
-This little tool was used in the opera play "Einstein On The Beach" by Phil Glass and Robert Wilson at the Oper Dortmund.
+This little tool was used in the opera play ["Einstein On The Beach"](https://www.theaterdo.de/detail/event/einstein-on-the-beach/) by Phil Glass and Robert Wilson at the Oper Dortmund.
 This work is sponsored by [rrbone](https://www.rrbone.net/) and released as open-source.
 
 ## Build
